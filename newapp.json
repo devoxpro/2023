@@ -43,13 +43,13 @@
 
     "quizquestions" : [
         {
-            "questions" :
+            "" :
             [
                 { "question" : "q1" },
                 { "question" : "q2" },
                 { "question" : "q3" }
             ],
-            "answers" :
+            "" :
             [
                 { "answer" : "a1" },
                 { "answer" : "a2" },
