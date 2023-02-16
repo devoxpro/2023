@@ -98,32 +98,32 @@
             "active" : "true",
             "name" : "Guide Tips",
             "ico" : "",
-            "bg" : ""
+            "bg" : "#ffffff"
         },{
             "active" : "true",
             "name" : "puzzle",
             "ico" : "https://i.ibb.co/6ZDZDRS/ezgif-1-bab27e02bf.gif",
-            "bg" : ""
+            "bg" : "#ffffff"
         },{
             "active" : "true",
             "name" : "spinner",
             "ico" : "https://i.ibb.co/0f3TTp6/ezgif-1-34dd96153f.gif",
-            "bg" : ""
+            "bg" : "#ffffff"
         },{
             "active" : "true",
             "name" : "scratch",
             "ico" : "https://img.icons8.com/ios/130/ffffff/erase-image.png",
-            "bg" : ""
+            "bg" : "#ffffff"
         },{
             "active" : "true",
             "name" : "questions",
             "ico" : "https://img.icons8.com/ios/130/ffffff/how-many-quest--v2.png",
-            "bg" : ""
+            "bg" : "#ffffff"
         },{
             "active" : "true",
             "name" : "quiz",
             "ico" : "https://img.icons8.com/ios/130/ffffff/what.png",
-            "bg" : ""
+            "bg" : "#ffffff"
         },{
             "active" : "true",
             "name" : "wallpapers",
@@ -138,7 +138,7 @@
             "active" : "true",
             "name" : "games",
             "ico" : "https://img.icons8.com/ios/130/ffffff/emu4ios.png",
-            "bg" : ""
+            "bg" : "#ffffff"
         }
     ],
     
