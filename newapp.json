@@ -103,27 +103,27 @@
             "active" : "true",
             "name" : "puzzle",
             "ico" : "https://i.ibb.co/6ZDZDRS/ezgif-1-bab27e02bf.gif",
-            "bg" : "#FBBF24"
+            "bg" : "#ffffff"
         },{
             "active" : "true",
             "name" : "spinner",
             "ico" : "https://i.ibb.co/0f3TTp6/ezgif-1-34dd96153f.gif",
-            "bg" : "#A3E635"
+            "bg" : "#ffffff"
         },{
             "active" : "true",
             "name" : "scratch",
             "ico" : "https://img.icons8.com/ios/130/ffffff/erase-image.png",
-            "bg" : "#38BDF8"
+            "bg" : "#ffffff"
         },{
             "active" : "true",
             "name" : "questions",
             "ico" : "https://img.icons8.com/ios/130/ffffff/how-many-quest--v2.png",
-            "bg" : "#2DD4BF"
+            "bg" : "#ffffff"
         },{
             "active" : "true",
             "name" : "quiz",
             "ico" : "https://img.icons8.com/ios/130/ffffff/what.png",
-            "bg" : "#4ADE80"
+            "bg" : "#ffffff"
         },{
             "active" : "true",
             "name" : "wallpapers",
@@ -133,12 +133,12 @@
             "active" : "true",
             "name" : "more",
             "ico" : "https://img.icons8.com/ios/130/ffffff/handshake-heart.png",
-            "bg" : "#3F51B5"
+            "bg" : "#ffffff"
         },{
             "active" : "true",
             "name" : "games",
             "ico" : "https://img.icons8.com/ios/130/ffffff/emu4ios.png",
-            "bg" : "#673AB7"
+            "bg" : "#ffffff"
         }
     ],
     
