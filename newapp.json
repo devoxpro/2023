@@ -98,47 +98,47 @@
             "active" : "true",
             "name" : "Guide Tips",
             "ico" : "",
-            "bg" : "#FB923C"
+            "bg" : ""
         },{
             "active" : "true",
             "name" : "puzzle",
             "ico" : "https://i.ibb.co/6ZDZDRS/ezgif-1-bab27e02bf.gif",
-            "bg" : "#ffffff"
+            "bg" : ""
         },{
             "active" : "true",
             "name" : "spinner",
             "ico" : "https://i.ibb.co/0f3TTp6/ezgif-1-34dd96153f.gif",
-            "bg" : "#ffffff"
+            "bg" : ""
         },{
             "active" : "true",
             "name" : "scratch",
             "ico" : "https://img.icons8.com/ios/130/ffffff/erase-image.png",
-            "bg" : "#ffffff"
+            "bg" : ""
         },{
             "active" : "true",
             "name" : "questions",
             "ico" : "https://img.icons8.com/ios/130/ffffff/how-many-quest--v2.png",
-            "bg" : "#ffffff"
+            "bg" : ""
         },{
             "active" : "true",
             "name" : "quiz",
             "ico" : "https://img.icons8.com/ios/130/ffffff/what.png",
-            "bg" : "#ffffff"
+            "bg" : ""
         },{
             "active" : "true",
             "name" : "wallpapers",
             "ico" : "https://img.icons8.com/ios/130/ffffff/tails.png",
-            "bg" : "#2196F3"
+            "bg" : ""
         },{
             "active" : "true",
             "name" : "more",
             "ico" : "https://img.icons8.com/ios/130/ffffff/handshake-heart.png",
-            "bg" : "#ffffff"
+            "bg" : ""
         },{
             "active" : "true",
             "name" : "games",
             "ico" : "https://img.icons8.com/ios/130/ffffff/emu4ios.png",
-            "bg" : "#ffffff"
+            "bg" : ""
         }
     ],
     
