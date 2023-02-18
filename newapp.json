@@ -95,6 +95,12 @@
     
     "menu" : [
         {
+                
+            "active" : "true",
+            "name" : "games",
+            "ico" : "https://i.ibb.co/Syy8Rp8/Untitled-design-unscreen.gif",
+            "bg" : "#ffffff"
+         },{    
             "active" : "true",
             "name" : "Guide Tips",
             "ico" : "",
@@ -127,18 +133,14 @@
         },{
             "active" : "true",
             "name" : "wallpapers",
-            "ico" : "https://img.icons8.com/ios/130/ffffff/tails.png",
+            "ico" : "https://i.ibb.co/k8bQw9V/Untitled-design-unscreen.gif",
             "bg" : ""
         },{
             "active" : "true",
-            "name" : "more",
-            "ico" : "https://img.icons8.com/ios/130/ffffff/handshake-heart.png",
+            "name" : "more games",
+            "ico" : "https://i.ibb.co/mJYnghj/Untitled-design-unscreen.gif",
             "bg" : ""
-        },{
-            "active" : "true",
-            "name" : "games",
-            "ico" : "https://i.ibb.co/Syy8Rp8/Untitled-design-unscreen.gif",
-            "bg" : "#ffffff"
+   
         }
     ],
     
