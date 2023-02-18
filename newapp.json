@@ -96,11 +96,7 @@
     "menu" : [
         {
                 
-            "active" : "true",
-            "name" : "games",
-            "ico" : "https://i.ibb.co/Syy8Rp8/Untitled-design-unscreen.gif",
-            "bg" : "#ffffff"
-         },{    
+           
             "active" : "true",
             "name" : "Guide Tips",
             "ico" : "",
@@ -140,7 +136,12 @@
             "name" : "more games",
             "ico" : "https://i.ibb.co/mJYnghj/Untitled-design-unscreen.gif",
             "bg" : ""
-   
+        },{ 
+             "active" : "true",
+            "name" : "games",
+            "ico" : "https://i.ibb.co/Syy8Rp8/Untitled-design-unscreen.gif",
+            "bg" : "#ffffff"
+           
         }
     ],
     
