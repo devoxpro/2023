@@ -97,7 +97,7 @@
         {
             "active" : "true",
             "name" : "Guide Tips",
-            "ico" : "",
+            "ico" : "https://i.ibb.co/GQYxJ6M/tips.gif",
             "bg" : "#ffffff"
         },{
             "active" : "true",
@@ -127,7 +127,7 @@
         },{
             "active" : "true",
             "name" : "wallpapers",
-            "ico" : "https://i.ibb.co/1RjRmVF/giphy-unscreen.gif",
+            "ico" : "https://i.ibb.co/0sSwcW1/waal-unscreen.gif",
             "bg" : ""
         },{
             "active" : "true",
