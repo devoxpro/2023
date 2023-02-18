@@ -93,10 +93,8 @@
         }
     ],
     
-    "menu" : [
+     "menu" : [
         {
-                
-           
             "active" : "true",
             "name" : "Guide Tips",
             "ico" : "",
@@ -114,34 +112,33 @@
         },{
             "active" : "true",
             "name" : "scratch",
-            "ico" : "https://i.ibb.co/rxPXj8d/Untitled-design.gif",
+            "ico" : "https://i.ibb.co/gVmGsn9/scractch.gif",
             "bg" : "#ffffff"
         },{
             "active" : "true",
             "name" : "questions",
-            "ico" : "https://i.ibb.co/YWJctyj/Untitled-design-unscreen.gif",
+            "ico" : "https://i.ibb.co/WksZhVc/Untitled-design-unscreen.gif",
             "bg" : "#ffffff"
         },{
             "active" : "true",
             "name" : "quiz",
-            "ico" : "https://i.ibb.co/kBcJ07f/quiz-unscreen.gif",
+            "ico" : "https://i.ibb.co/Yhkx32j/quize.gif",
             "bg" : "#ffffff"
         },{
             "active" : "true",
             "name" : "wallpapers",
-            "ico" : "https://i.ibb.co/k8bQw9V/Untitled-design-unscreen.gif",
+            "ico" : "https://i.ibb.co/1RjRmVF/giphy-unscreen.gif",
             "bg" : ""
         },{
             "active" : "true",
-            "name" : "more games",
-            "ico" : "https://i.ibb.co/mJYnghj/Untitled-design-unscreen.gif",
+            "name" : "more",
+            "ico" : "https://i.ibb.co/Syy8Rp8/Untitled-design-unscreen.gif",
             "bg" : ""
-        },{ 
-             "active" : "true",
+        },{
+            "active" : "true",
             "name" : "games",
             "ico" : "https://i.ibb.co/Syy8Rp8/Untitled-design-unscreen.gif",
             "bg" : "#ffffff"
-           
         }
     ],
     
