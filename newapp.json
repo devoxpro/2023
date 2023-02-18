@@ -2,14 +2,14 @@
     "config" : [
         {
             "activate_vpn" : "false",
-            "activate_force_vpn" : "true",
+            "activate_force_vpn" : "false",
             "vpn_path" : "https://9asso.github.io/ovpn/uk.txt",
             "vpn_user" : "freeopenvpn",
             "vpn_password" : "204703142",
 
             "int_interval" : 5,
-            "activate_ads" : "false",
-            "activate_steps" : "false",
+            "activate_ads" : "true",
+            "activate_steps" : "true",
             "activate_step_email" : "false",
             "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
             "network" : "admob",
@@ -32,9 +32,10 @@
 
             "iron_source_key": "12c959ebd",
 
-            "diamond": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/b/be/Icon_Currency_Gem.png/revision/latest/scale-to-width-down/250?cb=20220517110115",
-            "cover": "https://raw.githubusercontent.com/98734/dina/main/A/R2.jpeg",
-           
+
+            "diamond": "https://raw.githubusercontent.com/nezdedio/rbx-poppa/main/rbx-poppy/Nouveau%20dossier/r.png",
+            "cover": "https://raw.githubusercontent.com/nezdedio/rbx-poppa/main/rbx-poppy/Nouveau%20dossier/cou.png",
+            
             "activate_update_app": "false",
             "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
         }
@@ -42,65 +43,23 @@
 
     "quizquestions" : [
         {
-            "questions" :
+            "" :
             [
-                { "question" : "WHO DEVELOPED ROBLOX?" },
-                { "question" : "WHAT IS THE VIRTUAL CURRENCY IN ROBLOX?" },
-                { "question" : "WHAT IS THE NAME OF THE OLD CURRENCY, WHICH HAS ALREADY BEEN DISCONTINUED?" },
-                { "question" : "WHAT IS THE DEFAULT COLOR OF ROBLOX AVATAR?" },
-                { "question" : "WHAT IS THE MAXIMUM LIMIT ON HAVING FRIENDS ON ROBLOX?" },
-                { "question" : "WHO MADE STILL CHILL A MEME ON ROBLOX?" },
-                { "question" : "WHAT WAS ROBLOX ORIGINALLY KNOWN AS?" },
-                { "question" : "HOW MANY QUESTIONS DOES ROBLOX TRIVIA ASK?" },
-                { "question" : "IN WHICH YEAR WAS ROBLOX RELEASED?" },
-                { "question" : "HOW MANY HATS CAN YOU WEAR IN ROBLOX?" },
-                { "question" : "HOW MUCH IS THE PIRATE HAT IN ROBLOX?" },
-                { "question" : "HOW MANY TICKETS ARE EQUAL TO 1 ROBUX?" },
-                { "question" : "WHAT IS THE FOURTH GAME ON ROBLOX TO HIT 1 BILLION VISITS?" },
-                { "question" : "WHAT IS THE TAGLINE OF ROBLOX?" },
-                { "question" : "WHERE DO ROBLOX PLAYERS RESURRECT?" },
-                { "question" : "HOW MUCH DOES THE VARKNOX COUCH COST TO WORK AT A PIZZA PLACE?" },
-                { "question" : "FROM THE BELOW OPTIONS,WHAT IS ONE TYPE OF ROBLOX AVATAR?" }
+                { "question" : "q1" },
+                { "question" : "q2" },
+                { "question" : "q3" }
             ],
-            "answers" :
+            "" :
             [
-                { "answer" : "Roblox" },
-                { "answer" : "Robux" },
-                { "answer" : "Tix" },
-                { "answer" : "Grey" },
-                { "answer" : "200" },
-                { "answer" : "Flamingo" },
-                { "answer" : "Dyna Blocks" },
-                { "answer" : "20" },
-                { "answer" : "2006" },
-                { "answer" : "3" },
-                { "answer" : "2000"},
-                { "answer" : "4" },
-                { "answer" : "Work at a Pizza Place" },
-                { "answer" : "Powering Imagination" },
-                { "answer" : "Spawn Zone" },
-                { "answer" : "1990" },
-                { "answer" : "R15" }
+                { "answer" : "a1" },
+                { "answer" : "a2" },
+                { "answer" : "a3" }
             ],
             "options" :
             [
-                { "option" : "Roblox" }, { "option" : "EA" }, { "option" : "Microsoft" }, { "option" : "Clockwork" },
-                { "option" : "Points" }, { "option" : "Robux" }, { "option" : "Simoleons" }, { "option" : "Roblox dollars" },
-                { "option" : "Tix" }, { "option" : "Robux" }, { "option" : "Trolox" }, { "option" : "Blox" },
-                { "option" : "White" }, { "option" : "Black" }, { "option" : "Red" }, { "option" : "Grey" },
-                { "option" : "100" }, { "option" : "200" }, { "option" : "300" }, { "option" : "400" },
-                { "option" : "Sketches" }, { "option" : "Funneh" }, { "option" : "Flamingo" }, { "option" : "ThinkNoodles" },
-                { "option" : "Blocks Game" }, { "option" : "Super Blocks" }, { "option" : "Crazy Blocks" }, { "option" : "Dyna Blocks" },
-                { "option" : "10" }, { "option" : "15" }, { "option" : "20" }, { "option" : "50" },
-                { "option" : "2004" }, { "option" : "2006" }, { "option" : "2007" }, { "option" : "2009" },
-                { "option" : "6" }, { "option" : "8" }, { "option" : "3" }, { "option" : "10" },
-                { "option" : "2000" }, { "option" : "4000" }, { "option" : "5000" }, { "option" : "7000" },
-                { "option" : "5" }, { "option" : "7" }, { "option" : "3" }, { "option" : "4" },
-                { "option" : "Hide and Seek Extreme" }, { "option" : " Theme Park Tycoon 2" }, { "option" : "Work at a Pizza Place" }, { "option" : "Scuba Diving at Quill Lake" },
-                { "option" : " Build your Dream City" }, { "option" : "Best Open World Game" }, { "option" : "Survival of the Fittest" }, { "option" : "Powering Imagination" },
-                { "option" : "Spawn Zone" }, { "option" : " Campsite B" }, { "option" : "Grand Lake" }, { "option" : "Impact Zone" },
-                { "option" : "1750" }, { "option" : "1990" }, { "option" : "1880" }, { "option" : "2000" },
-                { "option" : "R3" }, { "option" : "R15" }, { "option" : "R16" }, { "option" : "R20" }
+                { "option" : "a1" }, { "option" : "ax" }, { "option" : "ac" }, { "option" : "ad" },
+                { "option" : "iu" }, { "option" : "a2" }, { "option" : "po" }, { "option" : "gh" },
+                { "option" : "kp" }, { "option" : "lk" }, { "option" : "km" }, { "option" : "a3" }
             ]
         }
     ],
@@ -109,39 +68,27 @@
         {
             "images" :
             [
-                { "image" : "https://raw.githubusercontent.com/98734/dina/main/QZ/QZ/Q1.jpg" },
-                { "image" : "https://raw.githubusercontent.com/98734/dina/main/QZ/QZ/Q2.jpg" },
-                { "image" : "https://raw.githubusercontent.com/98734/dina/main/QZ/QZ/Q3.jpg" },
-                { "image" : "https://raw.githubusercontent.com/98734/dina/main/QZ/QZ/Q4.jpg" },
-                { "image" : "https://raw.githubusercontent.com/98734/dina/main/QZ/QZ/Q5.jpg" },
-                { "image" : "https://raw.githubusercontent.com/98734/dina/main/QZ/QZ/Q6.jpg" },
-                { "image" : "https://raw.githubusercontent.com/98734/dina/main/QZ/QZ/Q7.jpg" },
-                { "image" : "https://raw.githubusercontent.com/98734/dina/main/QZ/QZ/Q8.jpg" },
-                { "image" : "https://raw.githubusercontent.com/98734/dina/main/QZ/QZ/Q9.jpg" }
+                { "image" : "https://cdn.akamai.steamstatic.com/steam/apps/1677740/ss_39dd63c1ac25fe267021845e5374da17c9455393.1920x1080.jpg?t=1650527635" },
+                { "image" : "https://c.tenor.com/SBj5aYuNpAUAAAAC/arunraj-stumble-guys.gif" },
+                { "image" : "https://cdn.cloudflare.steamstatic.com/steam/apps/1677740/ss_2a10d8f0b09d3ef56538e254c8ad2a783b30f39a.1920x1080.jpg?t=1650527635" },
+                { "image" : "https://c.tenor.com/u9exTGy3NcgAAAAC/stumble-guys-honey-drop.gif" },
+                { "image" : "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/08/02/1177498885.png" }
             ],
             "answers" :
             [
-                { "answer" : "Royale High" },
-                { "answer" : "Adopt Me" },
-                { "answer" : "Meep City" },
-                { "answer" : "Work At A Pizza Place" },
-                { "answer" : "Piggy" },
-                { "answer" : "Banana Eats" },
-                { "answer" : "Anime Fighting Simulator" },
-                { "answer" : "Brookhaven" },
-                { "answer" : "JailBreak" }
+                { "answer" : "true" },
+                { "answer" : "true" },
+                { "answer" : "true" },
+                { "answer" : "true" },
+                { "answer" : "true" }
             ],
             "options" :
             [
-                { "option" : "Adopt Me" }, { "option" : "Robloxia High" }, { "option" : "Royale High" }, { "option" : "Meep City" },
-                { "option" : "Royale High " }, { "option" : "Adopt Me" }, { "option" : "Adopt And Raise" }, { "option" : "Pet Escape" },
-                { "option" : "Greenville" }, { "option" : "Adopt Me" }, { "option" : "Meep City" }, { "option" : "Work At A pizza Place" },
-                { "option" : "Luigi’s Coffee" }, { "option" : "Work At A Pizza Place" }, { "option" : "Pizza Simulator " }, { "option" : "Meep City" },
-                { "option" : "Pig Simulator" }, { "option" : "Piggy" }, { "option" : "Pepper Pig Game" }, { "option" : "Piggy Tycoon" },
-                { "option" : "Banana Simulator" }, { "option" : "Banana Eats" }, { "option" : "Scary Banana" }, { "option" : "Run Away From Banana" },
-                { "option" : "Anime Fighting Simulator" }, { "option" : "Sword Fighting" }, { "option" : "Bed Wars" }, { "option" : "Pilfering Pirates" },
-                { "option" : "Adopt Me" }, { "option" : "Greenville" }, { "option" : "Brookhaven" }, { "option" : "Robloxia High School" },
-                { "option" : "Police And Criminal Simulator" }, { "option" : "Da Hood" }, { "option" : "Murder Mystery" }, { "option" : "JailBreak" }
+                { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" },
+                { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" },
+                { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" },
+                { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" },
+                { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" }
             ]
         }
     ],
@@ -151,47 +98,47 @@
             "active" : "true",
             "name" : "Guide Tips",
             "ico" : "",
-            "bg" : "#FB923C"
+            "bg" : "#ffffff"
         },{
             "active" : "true",
             "name" : "puzzle",
-            "ico" : "https://9asso.github.io/published/imgs/btpuzzle.png",
-            "bg" : "#FBBF24"
+            "ico" : "https://i.ibb.co/vxxVY71/ezgif-1-bab27e02bf-unscreen.gif",
+            "bg" : "#ffffff"
         },{
             "active" : "true",
             "name" : "spinner",
-            "ico" : "https://9asso.github.io/published/imgs/btspin.png",
-            "bg" : "#A3E635"
+            "ico" : "https://i.ibb.co/bKj831W/output-onlinegiftools.gif",
+            "bg" : "#ffffff"
         },{
             "active" : "true",
             "name" : "scratch",
-            "ico" : "https://9asso.github.io/published/imgs/btscratch.png",
-            "bg" : "#38BDF8"
+            "ico" : "https://i.ibb.co/fqZ33rH/output-onlinegiftools.gif",
+            "bg" : "#ffffff"
         },{
             "active" : "true",
             "name" : "questions",
-            "ico" : "https://9asso.github.io/published/imgs/btquiz.png",
-            "bg" : "#2DD4BF"
+            "ico" : "https://i.ibb.co/WksZhVc/Untitled-design-unscreen.gif",
+            "bg" : "#ffffff"
         },{
             "active" : "true",
             "name" : "quiz",
-            "ico" : "https://9asso.github.io/published/imgs/btimgs.png",
-            "bg" : "#4ADE80"
+            "ico" : "https://img.icons8.com/ios/130/ffffff/what.png",
+            "bg" : "#ffffff"
         },{
             "active" : "true",
             "name" : "wallpapers",
-            "ico" : "https://9asso.github.io/published/imgs/btwalls.png",
-            "bg" : "#2196F3"
+            "ico" : "https://img.icons8.com/ios/130/ffffff/tails.png",
+            "bg" : ""
         },{
             "active" : "true",
             "name" : "more",
-            "ico" : "https://9asso.github.io/published/imgs/btmore.png",
-            "bg" : "#3F51B5"
+            "ico" : "https://img.icons8.com/ios/130/ffffff/handshake-heart.png",
+            "bg" : ""
         },{
             "active" : "true",
             "name" : "games",
-            "ico" : "https://9asso.github.io/published/imgs/btgames.png",
-            "bg" : "#673AB7"
+            "ico" : "https://i.ibb.co/Syy8Rp8/Untitled-design-unscreen.gif",
+            "bg" : "#ffffff"
         }
     ],
     
@@ -277,151 +224,223 @@
     
     "scratch" : [
         {
-            "img" : "https://raw.githubusercontent.com/98734/dina/main/sc/roblox-roblox-dance.gif"
+            "img" : "https://media.istockphoto.com/vectors/scratch-and-win-letters-scratched-effect-background-and-stars-place-vector-id985966248?k=20&m=985966248&s=612x612&w=0&h=mQlnhRg3AvHwV_lKVS-YDuErpY35LeGie2VKezaSX0Q="
         },{
-            "img" : "https://raw.githubusercontent.com/98734/dina/main/sc/dance-moves.gif"
+            "img" : "https://thumbs.dreamstime.com/b/scratch-win-letters-scratched-effect-background-stars-scratch-win-letters-scratched-effect-background-stars-ribbon-120022586.jpg"
         },{
-            "img" : "https://raw.githubusercontent.com/98734/dina/main/sc/sc/gif1.gif"
+            "img" : "https://cdn.appsmav.com/win/upload/img/242/42/6242_scratch_1559542007.png"
         },{
-            "img" : "https://raw.githubusercontent.com/98734/dina/main/sc/sc/gif2.gif"
+            "img" : "https://play-lh.googleusercontent.com/wsm1brgFhjT-1_czu_JpoUVnthTafMWVCidTnrYwsR6djLUwggqIGDmlwhrnbRa0eTQ"
         },{
-            "img" : "https://raw.githubusercontent.com/98734/dina/main/sc/sc/gif3.gif"
+            "img" : "https://play-lh.googleusercontent.com/H4ql9I6x-3x_AIM6HUPyzX7Wqral-yEazluTt_-rIzn5_U8NIYOh8QsjzHd-75S6-ks"
         }
     ],
 
     "wallpapers" : [
         {
             "name" : "",
-            "img" : "https://raw.githubusercontent.com/98734/dina/main/A/W1.jpg"
+            "img" : "https://static.gameloop.com/syzs_cms/202205/5035ba8cb44bef82574246a7068b72f2.jpeg?imageMogr2/thumbnail/412x675/format/webp"
         },
         {
             "name" : "",
-            "img" : "https://raw.githubusercontent.com/98734/dina/main/A/W2.jpg"
+            "img" : "https://www.xtrafondos.com/wallpapers/vertical/temporada-2-de-fall-guys-6435.jpg"
         },
         {
             "name" : "",
-            "img" : "https://raw.githubusercontent.com/98734/dina/main/A/W3.jpg"
+            "img" : "https://i.pinimg.com/originals/79/e9/9f/79e99f9248326b26915b30efd53f1a4d.jpg"
         },
         {
             "name" : "",
-            "img" : "https://raw.githubusercontent.com/98734/dina/main/A/750x750bb.jpeg"
-        },
-      
-        {
-            "name" : "",
-            "img" : "https://raw.githubusercontent.com/98734/dina/main/A/HD-wallpaper-butterfly-butterfly-roblox.jpg"
+            "img" : "https://wallpapercave.com/wp/wp10366312.jpg"
         },
         {
             "name" : "",
-            "img" : "https://raw.githubusercontent.com/98734/dina/main/A/HD-wallpaper-roblox-ruby-blue-game-gamer-geek-green-roblox-robux-teal-youtube-thumbnail.jpg"
+            "img" : "https://i.pinimg.com/originals/a9/ef/55/a9ef55219afb7bc0bfd601e4716dfb26.jpg"
         },
         {
             "name" : "",
-            "img" : "https://raw.githubusercontent.com/98734/dina/main/A/HD-wallpaper-roblox-xjosegamer.jpg"
+            "img" : "https://pbs.twimg.com/media/EnQ9Y0rW8AE7poC.jpg:large"
         },
         {
             "name" : "",
-            "img" : "https://raw.githubusercontent.com/98734/dina/main/A/c8c0fff96c884857c39a51941cae48c5.jpg"
+            "img" : "https://mfiles.alphacoders.com/961/thumb-1920-961986.jpg"
         },
         {
             "name" : "",
-            "img" : "https://raw.githubusercontent.com/98734/dina/main/A/59dbd3bbab6446abb197db85947dfd6d.jpeg"
+            "img" : "https://indwallpapers.com/wp-content/uploads/2021/02/Wallpaper-Fall-Guys.jpg"
         },
         {
             "name" : "",
-            "img" : "https://raw.githubusercontent.com/98734/dina/main/A/wp7217324.jpg"
+            "img" : "https://www.xtrafondos.com/wallpapers/vertical/fall-guys-temporada-3-ultimate-knockout-2020-6801.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://www.xtrafondos.com/wallpapers/vertical/fall-guys-temporada-3-2020-6809.jpg"
         }
     ],
     
     "data" : [
         {
-            "url" : "",
-            "urlimg" : "",
-            "name" : "Lizzy Winkle",
-            "img1" : "https://raw.githubusercontent.com/98734/dina/main/Data/Ch/c1.jpg",
-            "img2" : "https://raw.githubusercontent.com/98734/dina/main/Data/D1.jpeg",
-            "part1" : "Royale High",
-            "part2" : "Royale High is a school-themed roleplay/hangout and dress-up Roblox game owned by callmehbob. It was originally titled Fairies and Mermaids Winx High School, and intended as a Winx Club fan roleplay game."
+            "url" : "https://www.ted.com/",
+            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
+            "name" : "Toca Life: World - NEW FEATURE in Home Designer! Design Walls and Floors",
+            "img1" : "https://i.pinimg.com/564x/a8/6a/5c/a86a5ce4d13fb835dfe5ad07c8100aa2.jpg",
+            "img2" : "https://i.gifer.com/BCyK.gif",
+            "part1" : "Toca Life World APK guide: how to download on Android, iOS, and PC",
+            "part2" : "How do you download the Toca Life World APK? That is a brilliant question and we have devoted this guide to explain it. But first, what Toca Life World? Toca Life World is an educational game where you take control of everything. You get to dress, position, and interact with the surrounding environment, and come up with whatever story comes to mind. Think of Toca Life World as a blank canvas, ready for you to paint on."
         },
         {
             "url" : "",
-            "urlimg" : "",
-            "name" : "Work At A Pizza Place",
-            "img1" : "https://raw.githubusercontent.com/98734/dina/main/Data/Ch/c2.jpg",
-            "img2" : "https://raw.githubusercontent.com/98734/dina/main/Data/D2.jpg",
-            "part1" : "Manager",
-            "part2" : "It involves players role-playing as different types of workers doing real-world jobs to earn cash, which can be spent on upgrading and decorating their house, buying gears and ordering food items as a customer themselves.
-
-            "
-        },
-        
-        {
-            "url" : "",
-            "urlimg" : "",
-            "name" : "Pink Cat Pet",
-            "img1" : "https://raw.githubusercontent.com/98734/dina/main/Data/Ch/C3p.png",
-            "img2" : "https://raw.githubusercontent.com/98734/dina/main/Data/D3.jpeg",
-            "part1" : "Adopt Me",
-            "part2" : "Adopt Me is an individual game within Roblox's collection. Adopt Me centres around designing a home, within which players will care for pets and befriend other users."
+            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
+            "name" : "Toca Life World APK guide",
+            "img1" : "https://i.pinimg.com/564x/34/1b/36/341b3694c814463a27fcd75f5027f47f.jpg",
+            "img2" : "https://i.gifer.com/MjQT.gif",
+            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
+            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
         },
         {
-            "url" : "",
-            "urlimg" : "",
-            "name" : "Thief Criminal",
-            "img1" : "https://raw.githubusercontent.com/98734/dina/main/Data/Ch/C4.jpg",
-            "img2" : "https://raw.githubusercontent.com/98734/dina/main/Data/D4.jpg",
-            "part1" : "JailBreak",
-            "part2" : "Jailbreak follows a cops and robbers playing style: criminals perform robberies after escaping the Prison, while police are given the task of stopping crime and arresting criminals."
+            "url" : "https://www.ted.com/",
+            "urlimg" : "https://img.icons8.com/external-bearicons-outline-color-bearicons/80/000000/external-click-frequently-asked-questions-faq-bearicons-outline-color-bearicons.png",
+            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
+            "img1" : "https://i.pinimg.com/originals/fe/30/d6/fe30d63c50c0bedd52f213d2beb4bb23.jpg",
+            "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
+            "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
+            "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
         },
         {
-            "url" : "",
-            "urlimg" : "",
-            "name" : "Horror Banana",
-            "img1" : "https://raw.githubusercontent.com/98734/dina/main/Data/Ch/c5.jpg",
-            "img2" : "https://raw.githubusercontent.com/98734/dina/main/Data/D5.jpeg",
-            "part1" : "Banana Eats",
-            "part2" : "Banana Eats is a Roblox horror puzzle game developed by RyCitrus.The main objective of the game is to hide and survive from the Banana. The Banana's objective is to eat all the players."
+            "url" : "https://www.ted.com/",
+            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
+            "name" : "Explore the World of Toca Boca - GeekDad",
+            "img1" : "https://i.pinimg.com/564x/d8/0c/f3/d80cf3099aac52b695072918fe2d612a.jpg",
+            "img2" : "https://c.tenor.com/-n-tAjzjGl8AAAAC/toca-life-stories-nari.gif",
+            "part1" : "A newcomer on the mobile scene, Genshin Impact proved naysayers wrong that a true, console-quality title is totally possible on mobile. It’s absolutely stunning, with a bunch of characters to collect, a wide world to explore, and plenty of fun to be had.",
+            "part2" : "Check out our Genshin Impact tier list, Genshin Impact map, Genshin Impact codes list, and Genshin Impact next banner guide to help you get started."
         },
         {
-            "url" : "",
-            "urlimg" : "",
-            "name" : "Devilz Vs.Dangerous",
-            "img1" : "https://raw.githubusercontent.com/98734/dina/main/Data/Ch/C6.jpg",
-            "img2" : "https://raw.githubusercontent.com/98734/dina/main/Data/D6.png",
-            "part1" : "Da Hood",
-            "part2" : "The game takes place in a gang subculture environment, were players can become an Officer or become a Criminal to become a part of a Gang. The game has mainly been criticized due to its toxic environment from its player base."
+            "url" : "https://www.ted.com/",
+            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
+            "name" : "Toca Life World APK guide",
+            "img1" : "https://i.pinimg.com/474x/ce/89/3c/ce893c542e3462afcc0323d8e4213009.jpg",
+            "img2" : "https://i.gifer.com/MjQT.gif",
+            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
+            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
         },
         {
-            "url" : "",
-            "urlimg" : "",
-            "name" : "Lava Bricks",
-            "img1" : "https://raw.githubusercontent.com/98734/dina/main/Data/Ch/C7.jpg",
-            "img2" : "https://raw.githubusercontent.com/98734/dina/main/Data/D7.png",
-            "part1" : "Infectious Smile",
-            "part2" : "Infectious Smile is a Roblox horror game created by Laughablehaha in which players try to stop an infection that causes players to become hostile while also forcing them to wear the Winning Smile face."
+            "url" : "https://www.ted.com/",
+            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
+            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
+            "img1" : "https://i.pinimg.com/originals/fe/30/d6/fe30d63c50c0bedd52f213d2beb4bb23.jpg",
+            "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
+            "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
+            "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
         },
         {
-            "url" : "",
-            "urlimg" : "",
-            "name" : "Azure Dragon Knife",
-            "img1" : "https://raw.githubusercontent.com/98734/dina/main/Data/Ch/C8.png",
-            "img2" : "https://raw.githubusercontent.com/98734/dina/main/Data/D8.jpeg",
-            "part1" : "KAT",
-            "part2" : "Knife ability test is a player-vs-player deathmatch game developed by Fierzaa. Its objective is to kill targets and other players for rubies. It utilizes elements including knives, guns, and map styles. It has added in Trading Powers
-"
+            "url" : "https://www.ted.com/",
+            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
+            "name" : "Explore the World of Toca Boca - GeekDad",
+            "img1" : "https://i.pinimg.com/474x/b1/fe/4d/b1fe4da8d4707e3ec75f2267dac3d5b1.jpg",
+            "img2" : "https://c.tenor.com/-n-tAjzjGl8AAAAC/toca-life-stories-nari.gif",
+            "part1" : "A newcomer on the mobile scene, Genshin Impact proved naysayers wrong that a true, console-quality title is totally possible on mobile. It’s absolutely stunning, with a bunch of characters to collect, a wide world to explore, and plenty of fun to be had.",
+            "part2" : "Check out our Genshin Impact tier list, Genshin Impact map, Genshin Impact codes list, and Genshin Impact next banner guide to help you get started."
         },
         {
-            "url" : "",
-            "urlimg" : "",
-            "name" : "Volcanic Disaster",
-            "img1" : "https://raw.githubusercontent.com/98734/dina/main/Data/Ch/C9.jpg",
-            "img2" : "https://raw.githubusercontent.com/98734/dina/main/Data/D9.jpeg",
-            "part1" : "How do you survive a natural disaster survival on Roblox?",
-            "part2" : "Stay on stable structures just high enough to avoid the flood. Do not climb too high or else the player might fall and die. If the structure falls, jump and try to stay on top of a brick above water."
+            "url" : "https://www.ted.com/",
+            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
+            "name" : "Toca Life World APK guide",
+            "img1" : "https://i.pinimg.com/474x/92/14/81/921481e5b84e6061fcf1f93896d384f0.jpg",
+            "img2" : "https://i.gifer.com/MjQT.gif",
+            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
+            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
+        },
+        {
+            "url" : "https://www.ted.com/",
+            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
+            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
+            "img1" : "https://i.pinimg.com/originals/fe/30/d6/fe30d63c50c0bedd52f213d2beb4bb23.jpg",
+            "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
+            "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
+            "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
+        },
+        {
+            "url" : "https://www.ted.com/",
+            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
+            "name" : "Explore the World of Toca Boca - GeekDad",
+            "img1" : "https://i.pinimg.com/474x/35/1d/1b/351d1b0ea4bea4ed3c17b5a049017bed.jpg",
+            "img2" : "https://c.tenor.com/-n-tAjzjGl8AAAAC/toca-life-stories-nari.gif",
+            "part1" : "A newcomer on the mobile scene, Genshin Impact proved naysayers wrong that a true, console-quality title is totally possible on mobile. It’s absolutely stunning, with a bunch of characters to collect, a wide world to explore, and plenty of fun to be had.",
+            "part2" : "Check out our Genshin Impact tier list, Genshin Impact map, Genshin Impact codes list, and Genshin Impact next banner guide to help you get started."
+        },
+        {
+            "url" : "https://www.ted.com/",
+            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
+            "name" : "Toca Life World APK guide",
+            "img1" : "https://i.pinimg.com/474x/e5/08/95/e50895e28d58eaba5acfadcff3ed5394.jpg",
+            "img2" : "https://i.gifer.com/MjQT.gif",
+            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
+            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
+        },
+        {
+            "url" : "https://www.ted.com/",
+            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
+            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
+            "img1" : "https://i.pinimg.com/474x/75/5a/86/755a86c6e582d048f422b67ae24029db.jpg",
+            "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
+            "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
+            "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
+        },
+        {
+            "url" : "https://www.ted.com/",
+            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
+            "name" : "Explore the World of Toca Boca - GeekDad",
+            "img1" : "https://i.pinimg.com/474x/51/0a/4e/510a4e610e913adf336bef966fe4e384.jpg",
+            "img2" : "https://c.tenor.com/-n-tAjzjGl8AAAAC/toca-life-stories-nari.gif",
+            "part1" : "A newcomer on the mobile scene, Genshin Impact proved naysayers wrong that a true, console-quality title is totally possible on mobile. It’s absolutely stunning, with a bunch of characters to collect, a wide world to explore, and plenty of fun to be had.",
+            "part2" : "Check out our Genshin Impact tier list, Genshin Impact map, Genshin Impact codes list, and Genshin Impact next banner guide to help you get started."
+        },
+        {
+            "url" : "https://www.ted.com/",
+            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
+            "name" : "Toca Life World APK guide",
+            "img1" : "https://i.pinimg.com/474x/e3/f2/9e/e3f29ec71a4eaf1ad3544640bf339069.jpg",
+            "img2" : "https://i.gifer.com/MjQT.gif",
+            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
+            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
+        },
+        {
+            "url" : "https://www.ted.com/",
+            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
+            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
+            "img1" : "https://i.pinimg.com/474x/1f/9f/31/1f9f319b6d9c584d369576a1055f28a7.jpg",
+            "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
+            "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
+            "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
+        },
+        {
+            "url" : "https://www.ted.com/",
+            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
+            "name" : "Explore the World of Toca Boca - GeekDad",
+            "img1" : "https://i.pinimg.com/564x/58/06/21/5806211d1e3f63432167d81c32f3a56b.jpg",
+            "img2" : "https://c.tenor.com/-n-tAjzjGl8AAAAC/toca-life-stories-nari.gif",
+            "part1" : "A newcomer on the mobile scene, Genshin Impact proved naysayers wrong that a true, console-quality title is totally possible on mobile. It’s absolutely stunning, with a bunch of characters to collect, a wide world to explore, and plenty of fun to be had.",
+            "part2" : "Check out our Genshin Impact tier list, Genshin Impact map, Genshin Impact codes list, and Genshin Impact next banner guide to help you get started."
+        },
+        {
+            "url" : "https://www.ted.com/",
+            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
+            "name" : "Toca Life World APK guide",
+            "img1" : "https://i.pinimg.com/474x/4b/2f/f9/4b2ff9267658009c127e8cfb82f8f199.jpg",
+            "img2" : "https://i.gifer.com/MjQT.gif",
+            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
+            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
+        },
+        {
+            "url" : "https://www.ted.com/",
+            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
+            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
+            "img1" : "https://i.pinimg.com/474x/65/5a/f6/655af642e7f06bc3400bde4895b1d1c8.jpg",
+            "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
+            "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
+            "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
         }
-     
-        
-        
-       
     ]
 }
