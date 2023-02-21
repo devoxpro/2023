@@ -31,79 +31,81 @@
             "fan_int": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
 
             "iron_source_key": "12c959ebd",
-
-            "diamond": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/b/be/Icon_Currency_Gem.png/revision/latest/scale-to-width-down/250?cb=20220517110115",
-            "cover": "https://raw.githubusercontent.com/98734/dina/main/A/R2.jpeg",
+            
+            "diamond": "https://i.ibb.co/C50Qfjd/r.png",
+            "cover": "https://i.ibb.co/rbc8pTt/cou.png",
            
             "activate_update_app": "false",
             "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
         }
     ],
 
-    "quizquestions" : [
-        {
-            "questions" :
-            [
-                { "question" : "WHO DEVELOPED ROBLOX?" },
-                { "question" : "WHAT IS THE VIRTUAL CURRENCY IN ROBLOX?" },
-                { "question" : "WHAT IS THE NAME OF THE OLD CURRENCY, WHICH HAS ALREADY BEEN DISCONTINUED?" },
-                { "question" : "WHAT IS THE DEFAULT COLOR OF ROBLOX AVATAR?" },
-                { "question" : "WHAT IS THE MAXIMUM LIMIT ON HAVING FRIENDS ON ROBLOX?" },
-                { "question" : "WHO MADE STILL CHILL A MEME ON ROBLOX?" },
-                { "question" : "WHAT WAS ROBLOX ORIGINALLY KNOWN AS?" },
-                { "question" : "HOW MANY QUESTIONS DOES ROBLOX TRIVIA ASK?" },
-                { "question" : "IN WHICH YEAR WAS ROBLOX RELEASED?" },
-                { "question" : "HOW MANY HATS CAN YOU WEAR IN ROBLOX?" },
-                { "question" : "HOW MUCH IS THE PIRATE HAT IN ROBLOX?" },
-                { "question" : "HOW MANY TICKETS ARE EQUAL TO 1 ROBUX?" },
-                { "question" : "WHAT IS THE FOURTH GAME ON ROBLOX TO HIT 1 BILLION VISITS?" },
-                { "question" : "WHAT IS THE TAGLINE OF ROBLOX?" },
-                { "question" : "WHERE DO ROBLOX PLAYERS RESURRECT?" },
-                { "question" : "HOW MUCH DOES THE VARKNOX COUCH COST TO WORK AT A PIZZA PLACE?" },
-                { "question" : "FROM THE BELOW OPTIONS,WHAT IS ONE TYPE OF ROBLOX AVATAR?" }
-            ],
-            "answers" :
-            [
-                { "answer" : "Roblox" },
-                { "answer" : "Robux" },
-                { "answer" : "Tix" },
-                { "answer" : "Grey" },
-                { "answer" : "200" },
-                { "answer" : "Flamingo" },
-                { "answer" : "Dyna Blocks" },
-                { "answer" : "20" },
-                { "answer" : "2006" },
-                { "answer" : "3" },
-                { "answer" : "2000"},
-                { "answer" : "4" },
-                { "answer" : "Work at a Pizza Place" },
-                { "answer" : "Powering Imagination" },
-                { "answer" : "Spawn Zone" },
-                { "answer" : "1990" },
-                { "answer" : "R15" }
-            ],
-            "options" :
-            [
-                { "option" : "Roblox" }, { "option" : "EA" }, { "option" : "Microsoft" }, { "option" : "Clockwork" },
-                { "option" : "Points" }, { "option" : "Robux" }, { "option" : "Simoleons" }, { "option" : "Roblox dollars" },
-                { "option" : "Tix" }, { "option" : "Robux" }, { "option" : "Trolox" }, { "option" : "Blox" },
-                { "option" : "White" }, { "option" : "Black" }, { "option" : "Red" }, { "option" : "Grey" },
-                { "option" : "100" }, { "option" : "200" }, { "option" : "300" }, { "option" : "400" },
-                { "option" : "Sketches" }, { "option" : "Funneh" }, { "option" : "Flamingo" }, { "option" : "ThinkNoodles" },
-                { "option" : "Blocks Game" }, { "option" : "Super Blocks" }, { "option" : "Crazy Blocks" }, { "option" : "Dyna Blocks" },
-                { "option" : "10" }, { "option" : "15" }, { "option" : "20" }, { "option" : "50" },
-                { "option" : "2004" }, { "option" : "2006" }, { "option" : "2007" }, { "option" : "2009" },
-                { "option" : "6" }, { "option" : "8" }, { "option" : "3" }, { "option" : "10" },
-                { "option" : "2000" }, { "option" : "4000" }, { "option" : "5000" }, { "option" : "7000" },
-                { "option" : "5" }, { "option" : "7" }, { "option" : "3" }, { "option" : "4" },
-                { "option" : "Hide and Seek Extreme" }, { "option" : " Theme Park Tycoon 2" }, { "option" : "Work at a Pizza Place" }, { "option" : "Scuba Diving at Quill Lake" },
-                { "option" : " Build your Dream City" }, { "option" : "Best Open World Game" }, { "option" : "Survival of the Fittest" }, { "option" : "Powering Imagination" },
-                { "option" : "Spawn Zone" }, { "option" : " Campsite B" }, { "option" : "Grand Lake" }, { "option" : "Impact Zone" },
-                { "option" : "1750" }, { "option" : "1990" }, { "option" : "1880" }, { "option" : "2000" },
-                { "option" : "R3" }, { "option" : "R15" }, { "option" : "R16" }, { "option" : "R20" }
-            ]
-        }
+    {
+  "quizquestions": [
+    {
+      "questions": [
+        {"question": "What was the name of the first person to walk on the moon?"},
+        {"question": "What is the name of the longest-serving Mars rover, launched by NASA in 2003?"},
+        {"question": "What is the name of the first artificial satellite launched into space by the Soviet Union in 1957?"},
+        {"question": "What was the name of the first American woman in space?"},
+        {"question": "What is the name of the space telescope launched by NASA in 1990?"},
+        {"question": "What is the name of the first privately-funded spacecraft to reach orbit?"},
+        {"question": "What is the name of the first spacecraft to visit Pluto, launched by NASA in 2006?"},
+        {"question": "What is the name of the rocket that sent the first American into space in 1961?"},
+        {"question": "What is the name of the first space station launched into orbit by the Soviet Union in 1971?"},
+        {"question": "What is the name of the first space shuttle launched by NASA in 1981?"}
+      ],
+      "answers": [
+        {"answer": "Neil Armstrong"},
+        {"answer": "Opportunity"},
+        {"answer": "Sputnik 1"},
+        {"answer": "Sally Ride"},
+        {"answer": "Hubble Space Telescope"},
+        {"answer": "Dragon"},
+        {"answer": "New Horizons"},
+        {"answer": "Mercury-Redstone 3"},
+        {"answer": "Salyut 1"},
+        {"answer": "Columbia"}
+      ],
+      "options": [
+        {"option": "Buzz Aldrin"},
+        {"option": "Neil Armstrong"},
+        {"option": "Alan Shepard"},
+        {"option": "Yuri Gagarin"},
+        {"option": "Curiosity"},
+        {"option": "Opportunity"},
+        {"option": "Spirit"},
+        {"option": "Sputnik 1"},
+        {"option": "Explorer 1"},
+        {"option": "Telstar 1"},
+        {"option": "Kathryn Sullivan"},
+        {"option": "Sally Ride"},
+        {"option": "Christa McAuliffe"},
+        {"option": "Valentina Tereshkova"},
+        {"option": "Hubble Space Telescope"},
+        {"option": "James Webb Space Telescope"},
+        {"option": "Kepler Space Telescope"},
+        {"option": "Challenger"},
+        {"option": "Dragon"},
+        {"option": "Falcon 9"},
+        {"option": "Atlas V"},
+        {"option": "New Horizons"},
+        {"option": "Voyager 1"},
+        {"option": "Pioneer 10"},
+        {"option": "Mercury-Redstone 3"},
+        {"option": "Atlas-Agena"},
+        {"option": "Saturn V"},
+        {"option": "Salyut 1"},
+        {"option": "Mir"},
+        {"option": "Skylab"},
+        {"option": "Enterprise"},
+        {"option": "Endeavour"},
+        {"option": "Discovery"},
+        {"option": "Atlantis"}
+      ]
+    }
     ],
+
 
     "quizimages" : [
         {
