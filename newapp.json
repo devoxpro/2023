@@ -50,8 +50,7 @@
                 { "question" : "Who was the first American woman to walk in space?" }
             ],
             "" :
-            "answers" :
-            [
+            "answers" : [
                 { "answer" : "Neil Armstrong" },
                 { "answer" : "SpaceX Crew Dragon or Russian Soyuz" },
                 { "answer" : "Kathryn D. Sullivan" }
