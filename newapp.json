@@ -1,3 +1,4 @@
+[
 {
     "config" : [
         {
@@ -38,7 +39,7 @@
             "activate_update_app": "false",
             "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
         }
-    ],
+    ]},
 
     {
   "quizquestions": [
@@ -351,9 +352,7 @@
             "img1" : "https://raw.githubusercontent.com/98734/dina/main/Data/Ch/c2.jpg",
             "img2" : "https://raw.githubusercontent.com/98734/dina/main/Data/D2.jpg",
             "part1" : "Manager",
-            "part2" : "It involves players role-playing as different types of workers doing real-world jobs to earn cash, which can be spent on upgrading and decorating their house, buying gears and ordering food items as a customer themselves.
-
-            "
+            "part2" : "It involves players role-playing as different types of workers doing real-world jobs to earn cash, which can be spent on upgrading and decorating their house, buying gears and ordering food items as a customer themselves.\n\n            "
         },
         
         {
@@ -408,8 +407,7 @@
             "img1" : "https://raw.githubusercontent.com/98734/dina/main/Data/Ch/C8.png",
             "img2" : "https://raw.githubusercontent.com/98734/dina/main/Data/D8.jpeg",
             "part1" : "KAT",
-            "part2" : "Knife ability test is a player-vs-player deathmatch game developed by Fierzaa. Its objective is to kill targets and other players for rubies. It utilizes elements including knives, guns, and map styles. It has added in Trading Powers
-"
+            "part2" : "Knife ability test is a player-vs-player deathmatch game developed by Fierzaa. Its objective is to kill targets and other players for rubies. It utilizes elements including knives, guns, and map styles. It has added in Trading Powers\n"
         },
         {
             "url" : "",
@@ -426,3 +424,5 @@
        
     ]
 }
+
+]
