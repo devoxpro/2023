@@ -45,7 +45,7 @@
         {
             "" :
             [
-                { "question" : "What was the name of the first astronaut to walk on the moon" },
+                { "question" : "What was the name of the first astronaut to walk on the moon?" },
                 { "question" : "What is the name of the spacecraft that takes astronauts to the International Space Station?" },
                 { "question" : "Who was the first American woman to walk in space?" }
             ],
