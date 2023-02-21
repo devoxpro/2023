@@ -38,12 +38,11 @@
             "activate_update_app": "false",
             "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
         }
-    ]},
-
-    {
-  "quizquestions": [
-    {
-      "questions": [
+    ],
+  "quizquestions" : [
+        {
+            "questions" :
+            [
         {"question": "What was the name of the first person to walk on the moon?"},
         {"question": "What is the name of the longest-serving Mars rover, launched by NASA in 2003?"},
         {"question": "What is the name of the first artificial satellite launched into space by the Soviet Union in 1957?"},
@@ -55,7 +54,8 @@
         {"question": "What is the name of the first space station launched into orbit by the Soviet Union in 1971?"},
         {"question": "What is the name of the first space shuttle launched by NASA in 1981?"}
       ],
-      "answers": [
+            "answers" :
+            [
         {"answer": "Neil Armstrong"},
         {"answer": "Opportunity"},
         {"answer": "Sputnik 1"},
@@ -66,8 +66,9 @@
         {"answer": "Mercury-Redstone 3"},
         {"answer": "Salyut 1"},
         {"answer": "Columbia"}
-      ],
-      "options": [
+       ],
+            "options" :
+            [
         {"option": "Buzz Aldrin"},
         {"option": "Neil Armstrong"},
         {"option": "Alan Shepard"},
@@ -103,9 +104,8 @@
         {"option": "Discovery"},
         {"option": "Atlantis"}
       ]
-    }
+        }
     ],
-
 
     "quizimages" : [
         {
@@ -144,10 +144,9 @@
                 { "option" : "Anime Fighting Simulator" }, { "option" : "Sword Fighting" }, { "option" : "Bed Wars" }, { "option" : "Pilfering Pirates" },
                 { "option" : "Adopt Me" }, { "option" : "Greenville" }, { "option" : "Brookhaven" }, { "option" : "Robloxia High School" },
                 { "option" : "Police And Criminal Simulator" }, { "option" : "Da Hood" }, { "option" : "Murder Mystery" }, { "option" : "JailBreak" }
-            ]
+             ]
         }
     ],
-    
     "menu" : [
         {
             "active" : "false",
