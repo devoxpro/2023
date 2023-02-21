@@ -95,7 +95,7 @@
     
      "menu" : [
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "Guide Tips",
             "ico" : "https://i.ibb.co/GQYxJ6M/tips.gif",
             "bg" : "#ffffff"
@@ -105,12 +105,12 @@
             "ico" : "https://i.ibb.co/vxxVY71/ezgif-1-bab27e02bf-unscreen.gif",
             "bg" : "#ffffff"
         },{
-            "active" : "true",
+            "active" : "false",
             "name" : "spinner",
             "ico" : "https://i.ibb.co/YkmZXT6/output-onlinegiftools.gif",
             "bg" : "#ffffff"
         },{
-            "active" : "true",
+            "active" : "false",
             "name" : "scratch",
             "ico" : "https://i.ibb.co/gVmGsn9/scractch.gif",
             "bg" : "#ffffff"
@@ -120,7 +120,7 @@
             "ico" : "https://i.ibb.co/YWJctyj/Untitled-design-unscreen.gif",
             "bg" : "#ffffff"
         },{
-            "active" : "true",
+            "active" : "false",
             "name" : "quiz",
             "ico" : "https://i.ibb.co/r33QywR/Untitled-design-unscreen.gif",
             "bg" : "#ffffff"
@@ -130,12 +130,12 @@
             "ico" : "https://i.ibb.co/0sSwcW1/waal-unscreen.gif",
             "bg" : ""
         },{
-            "active" : "true",
+            "active" : "false",
             "name" : "more",
             "ico" : "https://i.ibb.co/Syy8Rp8/Untitled-design-unscreen.gif",
             "bg" : ""
         },{
-            "active" : "true",
+            "active" : "false",
             "name" : "games",
             "ico" : "https://i.ibb.co/mJYnghj/Untitled-design-unscreen.gif",
             "bg" : "#ffffff"
