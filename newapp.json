@@ -148,50 +148,50 @@
     
     "menu" : [
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "Guide Tips",
-            "ico" : "",
-            "bg" : "#FB923C"
+            "ico" : "https://i.ibb.co/GQYxJ6M/tips.gif",
+            "bg" : "#ffffff"
         },{
             "active" : "true",
             "name" : "puzzle",
-            "ico" : "https://9asso.github.io/published/imgs/btpuzzle.png",
-            "bg" : "#FBBF24"
+            "ico" : "https://i.ibb.co/vxxVY71/ezgif-1-bab27e02bf-unscreen.gif",
+            "bg" : "#ffffff"
         },{
-            "active" : "true",
+            "active" : "false",
             "name" : "spinner",
-            "ico" : "https://9asso.github.io/published/imgs/btspin.png",
-            "bg" : "#A3E635"
+            "ico" : "https://i.ibb.co/YkmZXT6/output-onlinegiftools.gif",
+            "bg" : "#ffffff"
         },{
-            "active" : "true",
+            "active" : "false",
             "name" : "scratch",
-            "ico" : "https://9asso.github.io/published/imgs/btscratch.png",
-            "bg" : "#38BDF8"
+            "ico" : "https://i.ibb.co/gVmGsn9/scractch.gif",
+            "bg" : "#ffffff"
         },{
             "active" : "true",
             "name" : "questions",
-            "ico" : "https://9asso.github.io/published/imgs/btquiz.png",
-            "bg" : "#2DD4BF"
+            "ico" : "https://i.ibb.co/YWJctyj/Untitled-design-unscreen.gif",
+            "bg" : "#ffffff"
         },{
-            "active" : "true",
+            "active" : "false",
             "name" : "quiz",
-            "ico" : "https://9asso.github.io/published/imgs/btimgs.png",
-            "bg" : "#4ADE80"
+            "ico" : "https://i.ibb.co/r33QywR/Untitled-design-unscreen.gif",
+            "bg" : "#ffffff"
         },{
             "active" : "true",
             "name" : "wallpapers",
-            "ico" : "https://9asso.github.io/published/imgs/btwalls.png",
-            "bg" : "#2196F3"
+            "ico" : "https://i.ibb.co/0sSwcW1/waal-unscreen.gif",
+            "bg" : ""
         },{
-            "active" : "true",
+            "active" : "false",
             "name" : "more",
-            "ico" : "https://9asso.github.io/published/imgs/btmore.png",
-            "bg" : "#3F51B5"
+            "ico" : "https://i.ibb.co/Syy8Rp8/Untitled-design-unscreen.gif",
+            "bg" : ""
         },{
-            "active" : "true",
+            "active" : "false",
             "name" : "games",
-            "ico" : "https://9asso.github.io/published/imgs/btgames.png",
-            "bg" : "#673AB7"
+            "ico" : "https://i.ibb.co/mJYnghj/Untitled-design-unscreen.gif",
+            "bg" : "#ffffff"
         }
     ],
     
